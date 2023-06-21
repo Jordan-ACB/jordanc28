@@ -1,13 +1,13 @@
 <p align='center'>
   <b>Hi 👋, I'm Jordan.</b><br>
-  <a href="https://discord.gg/P4nUGEnfBh">Discord</a> |
+  <a href="https://discord.gg/lsavtc">Discord</a> |
   <a href="https://www.youtube.com/c/jordan-acb">YouTube</a> |
   <a href="https://twitter.com/jordan_acb">Twitter</a>
 </p>
 
 <p align="center"><br>
   <a href="https://github.com/JordanC28">
-    <img src="https://lanyard.cnrad.dev/api/712395861165998124"/>
+    <img src="https://lanyard.cnrad.dev/api/918005171303362600"/>
      </a>
 </p>
 
